@@ -10,6 +10,5 @@ namespace ssprokofeva_dz_6
     {
         static void Main(string[] args)
         {
-        }
-    }
-}
+            
+ 
